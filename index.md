@@ -13,5 +13,4 @@ Biophysics PhD student in Prof. Eran Mukamel's [lab](https://brainome.ucsd.edu) 
 
 ![](./doc/biccn_fig1a_v2.png)
 
-![](./doc/family_v2.png)
-<!-- <img src="./doc/family_v2.png" alt="drawing" width="600"> -->
+
