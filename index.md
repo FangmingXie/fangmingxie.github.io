@@ -4,7 +4,6 @@ layout: home
 
 Biophysics PhD student in Prof. Eran Mukamel's [lab](https://brainome.ucsd.edu) at UCSD.
 
-- [CV](./doc/CV.pdf)
 - [Google scholar](https://scholar.google.com/citations?user=27FYCbIAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-5232-1648)
 <!-- - [Github](https://github.com/FangmingXie) -->
